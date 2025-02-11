@@ -1,5 +1,5 @@
 # Streamed_Cache_Weather
-A rust asynchronous program implementing a streamed cache bounding to a weather API.
+A rust asynchronous library implementing a streamed cache bounding to a weather API.
 
 In this litte program I use the tokio crate in order to create a streamed cache communicating with a weather API ASYNCHORNOUSLY. 
 
